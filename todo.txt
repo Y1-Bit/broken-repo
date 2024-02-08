@@ -1,6 +1,8 @@
 TODO List
 =========
 
-- [ ] Complete feature A
+- [X] Complete feature A
 - [ ] Review feature B
 - [ ] Update documentation
+
+This line should not be here - it was added by mistake.
