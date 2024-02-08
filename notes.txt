@@ -11,3 +11,6 @@ This file contains important project notes.
 
 - Updated project status
 - Current status: In progress
+
+- Performance optimization discussed
+- Database schema finalized
