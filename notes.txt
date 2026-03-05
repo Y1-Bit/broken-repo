@@ -12,5 +12,11 @@ This file contains important project notes.
 - Updated project status
 - Current status: In progress
 
+- Authentication module discussion
+- Decided to use OAuth 2.0
+
+- Updated project status
+- Current status: In progress
+
 - Performance optimization discussed
 - Database schema finalized

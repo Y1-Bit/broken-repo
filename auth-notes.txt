@@ -1,0 +1,6 @@
+Authentication Notes
+====================
+
+- User login system planned
+- Password requirements defined
+- Session management discussed
