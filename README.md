@@ -6,3 +6,8 @@ This is a simple project with documentation files.
 
 - notes.txt - Project notes
 - todo.txt - Task list
+
+## Features
+
+- Feature A: Completed
+- Feature B: In progress
